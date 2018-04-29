@@ -10,4 +10,5 @@ export * from './facebook/angulartics2-facebook';
 export * from './appinsights/angulartics2-appinsights';
 export * from './hubspot/angulartics2-hubspot';
 export * from './adobeanalytics/angulartics2-adobeanalytics';
+export * from './sprw/angulartics2-sprw';
 
