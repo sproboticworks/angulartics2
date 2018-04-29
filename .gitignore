@@ -17,7 +17,7 @@ coverage
 *.map
 *.d.ts
 typings
-dist
+#dist
 *.metadata.js
 
 #################
